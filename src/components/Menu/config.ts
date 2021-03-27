@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.chessdefi.com/'
+    href: 'https://www.dev-farmswap.netlify.app/'
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.chessdefi.com/farms'
+    href: 'https://www.dev-farmswap.netlify.app/farms'
   },
   {
-    label: 'Checkerboard',
+    label: 'Nest',
     icon: 'CheckerboardIcon',
-    href: 'https://www.chessdefi.com/checkerboard'
+    href: 'https://www.dev-farmswap.netlify.app/checkerboard'
   },
   // {
   //   label: 'Lottery',
@@ -42,7 +42,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0xe32c2f4065e911ed678c8bee47289a9b3d39f638',
+        href: 'https://pancakeswap.info/token/0x9Ef97bf5011A67494f32f55F54Ee8f5695ac6cd0',
       },
       // {
       //   label: 'CoinGecko',

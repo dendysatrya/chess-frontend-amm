@@ -11,9 +11,9 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Bishop",
-      "symbol": "BIS",
-      "address": "0xe32c2f4065e911ed678c8bee47289a9b3d39f638",
+      "name": "FarmSwap",
+      "symbol": "FARM",
+      "address": "0x9Ef97bf5011A67494f32f55F54Ee8f5695ac6cd0",
       "chainId": 56,
       "decimals": 18
     },
